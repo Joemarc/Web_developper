@@ -215,11 +215,11 @@ img {
 
 textarea {
   height: 11.3em;
-  width: 935px;
+  width: 967px;
 }
 
 .sizing {
-  width: 935px;
+  width: 967px;
   margin-bottom: 8px;
   padding: 10px;
 }
@@ -263,4 +263,8 @@ textarea {
 
 .marg-bot {
   margin-bottom: 55px;
+}
+
+.width_img_3{
+  width: 550px;
 }
