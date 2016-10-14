@@ -277,3 +277,8 @@ textarea {
   width: 300px;
 }
 
+.font_quote {
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+}
+
