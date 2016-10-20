@@ -10,6 +10,13 @@ p {
   font-family: 'Open Sans', sans-serif;
 }
 
+.text_web_developpeur {
+  font-size: 16px;
+}
+.web_dev_size{
+  font-size: 15px;
+}
+
 h1 {
   font-family: 'Open Sans', sans-serif;
   font-size: 70px;
@@ -171,11 +178,11 @@ img {
 
 textarea {
   height: 11.3em;
-  width: 937px;
+  width: 967px;
 }
 
 .sizing {
-  width: 937px;
+  width: 967px;
   margin-bottom: 8px;
   padding: 10px;
 }
