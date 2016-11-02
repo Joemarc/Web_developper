@@ -46,15 +46,15 @@
     </a>
     <div class="row">
       <div class="col-xs-12 col-sm-12 margin_link">
-        <a href="#propos" class="navbar-wagon-link bolding">A propos</a>
-        <a href="#projets" class="navbar-wagon-link bolding pad_link_skills">Projets</a>
-        <a href="#compétences" class="navbar-wagon-link bolding ">Compétences</a>
-        <a href="#formations" class="navbar-wagon-link bolding pad_link_skills">Formations</a>
-        <a href="#Experiences" class="navbar-wagon-link bolding">Expériences</a>
-        <a href="#contact" class="navbar-wagon-link bolding pad_link_skills">Contact</a>
+        <a href="#propos" class="navbar-wagon-link bolding hidden-sm hidden-xs">A propos</a>
+        <a href="#projets" class="navbar-wagon-link bolding pad_link_skills hidden-sm hidden-xs">Projets</a>
+        <a href="#compétences" class="navbar-wagon-link bolding hidden-sm hidden-xs">Compétences</a>
+        <a href="#formations" class="navbar-wagon-link bolding pad_link_skills hidden-sm hidden-xs">Formations</a>
+        <a href="#Experiences" class="navbar-wagon-link bolding hidden-sm hidden-xs">Expériences</a>
+        <a href="#contact" class="navbar-wagon-link bolding pad_link_skills hidden-sm hidden-xs">Contact</a>
       </div>
     </div>
-     <div class="col-xs-12 col-sm-2 col-sm-offset-3 extra-right-navbar">
+     <div class="col-xs-12 col-sm-2 col-sm-offset-3 extra-right-navbar hidden-sm hidden-xs">
         <a href="https://www.facebook.com/profile.php?id=1003332356">
           <i class="fa-size fa fa-facebook-official fa-3x animated fadeIn navbar-wagon-link" aria-hidden="true"></i>
         </a>
@@ -277,5 +277,10 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="assets/javascript/slide_arrow.js"></script>
+  <script type="text/javascript">
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    })
+    </script>
   </body>
 </html>
