@@ -178,11 +178,11 @@ img {
 
 textarea {
   height: 11.3em;
-  width: 967px;
+  /*width: 967px;*/
 }
 
 .sizing {
-  width: 967px;
+/*  width: 967px;*/
   margin-bottom: 8px;
   padding: 10px;
 }
