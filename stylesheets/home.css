@@ -1,5 +1,7 @@
 .wrapper-grey {
   background: #343838;
+  box-shadow: 0px -7px 5px grey;
+  box-shadow: 0px 7px 5px grey;
 }
 
 body {
@@ -85,6 +87,7 @@ img {
   align-items: center;
   justify-content: center;
   position: relative;
+  box-shadow: 0px 7px 5px grey;
 }
 
 .banner h1 {
