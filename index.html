@@ -94,7 +94,7 @@
     </div>
     <div class="banner">
       <div class="banner-content">
-        <h1 class="text-blank animated  fadeInDownBig">Joé Marc</h1>
+        <h1 class="animated fadeInDownBig">Joé Marc</h1>
         <h3>Web Développeur</h3>
         <div id="arrow-1">
           <a href="#projets">
@@ -285,14 +285,14 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="assets/javascript/slide_arrow.js"></script>
   <script type="text/javascript">
+      $(document).ready(function() {
+      $('#rectangle').fadeOut(4000); // 5 seconds x 1000 milisec = 5000 milisec
+    });
+
+
     $(function () {
       $('[data-toggle="tooltip"]').tooltip()
     })
     </script>
-    <!-- <script type="text/javascript">
-    $(function () {
-      $('[data-toggle="tooltip"]').tooltip()
-    })
-    </script> -->
   </body>
 </html>
