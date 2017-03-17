@@ -1432,7 +1432,7 @@
 }
 
 .yellow-text {
-  color: #ffeb3b !important;
+  color: #FFD740 !important;
 }
 
 .yellow.lighten-5 {
@@ -2041,6 +2041,7 @@
 
 .grey-text {
   color: #9e9e9e !important;
+  font-size: 20px;
 }
 
 .grey.lighten-5 {
