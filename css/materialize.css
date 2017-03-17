@@ -4987,7 +4987,7 @@ small {
 .btn, .btn-large {
     text-decoration: none;
     color: #fff;
-    background-color: #26A69A;
+    background-color: #FFD740;
     text-align: center;
     letter-spacing: .5px;
     transition: .2s ease-out;
@@ -4998,7 +4998,7 @@ small {
   }
 
 .btn:hover, .btn-large:hover {
-  background-color: #26A69A;
+  background-color: #FFD740;
   /*border: 2px solid white;
   box-shadow: 0px 15px 20px white;*/
   color: white;
