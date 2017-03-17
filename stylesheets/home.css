@@ -1,8 +1,14 @@
 .wrapper-grey {
-  background: #49728D;
+  /*background: #346AFE;*/
   box-shadow: 0px -7px 5px grey;
   box-shadow: 0px 7px 5px grey;
-}
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#36a3e8+0,4197e2+31,6e6dca+63,815bbe+100 */
+  background: rgb(54,163,232); /* Old browsers */
+  background: -moz-linear-gradient(-45deg,  rgba(54,163,232,1) 0%, rgba(65,151,226,1) 31%, rgba(110,109,202,1) 63%, rgba(129,91,190,1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg,  rgba(54,163,232,1) 0%,rgba(65,151,226,1) 31%,rgba(110,109,202,1) 63%,rgba(129,91,190,1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg,  rgba(54,163,232,1) 0%,rgba(65,151,226,1) 31%,rgba(110,109,202,1) 63%,rgba(129,91,190,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#36a3e8', endColorstr='#815bbe',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  }
 
 body {
   background-color: #F5F5F5;
@@ -24,12 +30,16 @@ h1 {
   font-size: 70px;
 }
 h2 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
 }
 
 .text-blank {
-  color: #F1F1F1;
+  color: white;
+}
+
+.text-yellow {
+  color: #FFD740;
 }
 
 ul {
@@ -70,7 +80,11 @@ img {
 }
 
 .border_line {
-  border-bottom: 5px solid white;
+  border-bottom: 2px solid white;
+}
+
+.border_line_black {
+  border-bottom: 2px solid black;
 }
 
 .box {
@@ -79,7 +93,7 @@ img {
 }
 
 .banner {
-  background-image: linear-gradient(-50deg, rgba(0,0,0,0.0) 100%, rgba(0,0,0,0.6) 100%), url('../images/giphy.gif');
+  background-image: linear-gradient(-50deg, rgba(0,0,0,0.0) 100%, rgba(0,0,0,0.6) 100%), url('../images/background_gris.jpg');
   color: white;
   text-align: center;
   height: 100vh;
@@ -88,7 +102,7 @@ img {
   align-items: center;
   justify-content: center;
   position: relative;
-  box-shadow: 0px 7px 5px grey;
+  /*box-shadow: 0px 7px 5px grey;*/
 }
 
 .banner h1 {
@@ -321,5 +335,10 @@ textarea {
 }
 
 .vertical-align-1 {
+  line-height: 23px;
+}
+
+.fa-github {
+  color: black;
   line-height: 23px;
 }
