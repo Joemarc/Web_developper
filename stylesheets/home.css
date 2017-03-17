@@ -26,12 +26,16 @@ p {
 }
 
 h1 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 70px;
 }
 h2 {
   font-family: 'Roboto', sans-serif;
   font-size: 30px;
+}
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
 }
 
 .text-blank {
@@ -102,7 +106,7 @@ img {
   align-items: center;
   justify-content: center;
   position: relative;
-  /*box-shadow: 0px 7px 5px grey;*/
+  box-shadow: 0px 7px 5px grey;
 }
 
 .banner h1 {
