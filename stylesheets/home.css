@@ -238,6 +238,9 @@ textarea {
 .little_pad_bot{
   padding-bottom: 20px;
 }
+.little_pad_top{
+  padding-top: 20px;
+}
 
 .marg-bot {
   margin-bottom: 55px;
