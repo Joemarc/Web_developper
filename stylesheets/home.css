@@ -260,7 +260,7 @@ textarea {
 
 .font_quote {
   font-family: 'Dancing Script', cursive;
-  font-size: 20px;
+  font-size: 25px;
 }
 .share-links {
   display: flex;
@@ -278,6 +278,12 @@ textarea {
 }
 .share-link:hover {
     color: white;
+}
+
+.special_font {
+  font-size: 20px;
+ /* font-weight: ;*/
+  font-family: Roboto;
 }
 .bg-text {
   background: #4a4a4a;

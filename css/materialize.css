@@ -3147,6 +3147,113 @@ td, th {
   background-color: #26a69a;
 }
 
+.progress_red {
+  position: relative;
+  height: 4px;
+  display: block;
+  width: 100%;
+  background-color: #EF9A9A;
+  border-radius: 2px;
+  margin: 0.5rem 0 1rem 0;
+  overflow: hidden;
+  border-radius: 5px
+}
+
+.progress_red .determinate_red {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #B71C1C;
+  transition: width .3s linear;
+  border-radius: 5px
+}
+
+.progress_red .indeterminate_red {
+  background-color: #B71C1C;
+}
+
+.progress_blue {
+  position: relative;
+  height: 4px;
+  display: block;
+  width: 100%;
+  background-color: #64B5F6;
+  border-radius: 2px;
+  margin: 0.5rem 0 1rem 0;
+  overflow: hidden;
+  border-radius: 5px
+}
+
+.progress_blue .determinate_blue {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #415FD9;
+  transition: width .3s linear;
+  border-radius: 5px
+}
+
+.progress_blue .indeterminate_blue {
+  background-color: #415FD9;
+
+}
+
+.progress_yellow {
+  position: relative;
+  height: 4px;
+  display: block;
+  width: 100%;
+  background-color: #FFF176;
+  border-radius: 2px;
+  margin: 0.5rem 0 1rem 0;
+  overflow: hidden;
+  border-radius: 5px
+}
+
+.progress_yellow .determinate_yellow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #F9A825;
+  transition: width .3s linear;
+  border-radius: 5px
+}
+
+.progress_yellow .indeterminate_yellow {
+  background-color: #F9A825;
+
+}
+
+.progress_purple {
+  position: relative;
+  height: 4px;
+  display: block;
+  width: 100%;
+  background-color: #9575CD;
+  border-radius: 2px;
+  margin: 0.5rem 0 1rem 0;
+  overflow: hidden;
+  border-radius: 5px
+}
+
+.progress_purple .determinate_purple {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #512DA8;
+  transition: width .3s linear;
+  border-radius: 5px
+}
+
+.progress_purple .indeterminate_purple {
+  background-color: #512DA8;
+
+}
+
 .progress .indeterminate:before {
   content: '';
   position: absolute;
