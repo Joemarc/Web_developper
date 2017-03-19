@@ -65,7 +65,11 @@ padding-left:0;
 }
 
 img {
-  width: 200px;
+  width: 80px;
+}
+
+.ruby_width {
+  width: 95px;
 }
 .img_to_hover:hover {
   opacity: 0.6;

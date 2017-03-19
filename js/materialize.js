@@ -405,6 +405,9 @@ Materialize.throttle = function(func, wait, options) {
   };
 };
 
+$(document).ready(function(){
+    $('.scrollspy').scrollSpy();
+  });
 
 // Velocity has conflicts when loaded with jQuery, this will check for it
 // First, check if in noConflict mode
