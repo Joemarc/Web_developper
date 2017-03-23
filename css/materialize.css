@@ -5084,7 +5084,7 @@ small {
 .btn-large i,
 .btn-flat i {
   font-size: 1.3rem;
-  line-height: 9px;
+  line-height: 33px;
 }
 
 .btn:focus, .btn-large:focus,
