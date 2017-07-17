@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["o0BM4"]); }
+
+__d("NotifType",[],(function a(b,c,d,e,f,g){f.exports={LIKE:"like",OPEN_GRAPH_ACTION_LIKE:"open_graph_action_like",LIKE_TAGGED:"like_tagged",PAGE_FAN:"page_fan",IG_MEDIA_LIKE:"ig_media_like",FEEDBACK_REACTION_GENERIC:"feedback_reaction_generic",FEEDBACK_REACTION_GENERIC_TAGGED:"feedback_reaction_generic_tagged",MESSENGER_REACTIONS:"messenger_reactions"};}),null);
