@@ -9,6 +9,19 @@ body{
    margin: 0px;
  }
 
+.btn-medium {
+  color: #26A69A;
+  border: 1px solid #26A69A;
+  padding: 10px 15px;
+  border-radius: 50px;
+  font-weight: lighter;
+}
+.btn-medium:hover {
+  opacity: 1;
+  text-decoration: none;
+  color: #26A69A;
+}
+
 #gradient
 {
   width: 100%;
@@ -4632,7 +4645,6 @@ small {
   margin: 0.5rem 0 1rem 0;
   border-radius: 2px;
   background-color: #fff;
-  border-right: 1px solid #26A69A;
   border-left: 1px solid #26A69A;
 }
 
@@ -5561,12 +5573,12 @@ button.btn-floating {
 }
 
 .modal .modal-footer {
-  border-radius: 0 0 2px 2px;
-  background-color: #26A69A;
-  color: white;
-  padding: 4px 6px;
-  height: 56px;
-  width: 100%;
+      border-radius: 0 0 2px 2px;
+    background-color: #26A69A;
+    color: white;
+    padding: 13px 373px;
+    height: 56px;
+    width: 100%;
 }
 
 .modal .modal-footer .btn, .modal .modal-footer .btn-large, .modal .modal-footer .btn-flat {
