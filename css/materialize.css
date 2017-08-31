@@ -9,6 +9,12 @@ body{
    margin: 0px;
  }
 
+.avatar-bordered {
+  width: 150px;
+  border-radius: 50%;
+  border: white 1px solid;
+}
+
 .btn-medium {
   color: #26A69A;
   border: 1px solid #26A69A;
