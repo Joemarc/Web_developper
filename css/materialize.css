@@ -16,10 +16,25 @@ body{
   border-radius: 50px;
   font-weight: lighter;
 }
+
 .btn-medium:hover {
   opacity: 1;
   text-decoration: none;
   color: #26A69A;
+}
+
+.btn-medium-white {
+  color: white;
+  border: 2px solid white;
+  padding: 10px 15px;
+  border-radius: 50px;
+  font-size: 18px;
+}
+
+.btn-medium-white:hover {
+  opacity: 1;
+  text-decoration: none;
+  color: white;
 }
 
 #gradient
