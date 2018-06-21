@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="370px" height="777px" viewBox="0 0 370 777" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>third copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="56.0228453%" y1="-12.6134405%" x2="15.8931815%" y2="87.0991028%" id="linearGradient-1">
+            <stop stop-color="#40009B" offset="0%"></stop>
+            <stop stop-color="#24B2EA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy" transform="translate(-910.000000, -1456.000000)">
+            <g id="third-copy" transform="translate(1663.500000, 1845.000000) scale(-1, 1) translate(-1663.500000, -1845.000000) translate(814.000000, 1065.000000)">
+                <path d="M325.927436,595.669225 C615.534295,84.1953671 1022.39241,62.5062023 1546.50177,530.601731 C1509.08077,813.950465 1408.47965,1048.66884 1244.69841,1234.75685 C1180.9618,1366.8194 902.6513,1397.93616 748.97085,1327.1791 C364.180693,1120.87954 -108.482853,1362.88001 325.927436,595.669225 Z" id="Rectangle" fill="url(#linearGradient-1)" transform="translate(849.501773, 779.576611) rotate(199.000000) translate(-849.501773, -779.576611) "></path>
+                <text id="Développement-Web-Fu" transform="translate(1388.600051, 644.000000) scale(-1, 1) translate(-1388.600051, -644.000000) " font-family="Lato-Medium, Lato" font-size="36" font-weight="400" letter-spacing="-0.6075001" fill="#FFFFFF">
+                    <tspan x="1265.8558" y="636">Développement</tspan>
+                    <tspan x="1281.2998" y="680">Web Fullstack</tspan>
+                </text>
+                <g id="web-design" transform="translate(1388.500000, 779.500000) scale(-1, 1) translate(-1388.500000, -779.500000) translate(1333.000000, 715.000000)">
+                    <path d="M25.25,129 L19.125,129 C15.7422135,129 13,126.012705 13,122.327586 L13,122.327586 L13,6.67241379 C13,2.98729526 15.7422135,0 19.125,0 L104.875,0 C108.257786,0 111,2.98729526 111,6.67241379 L111,122.327586 C111,126.012705 108.257786,129 104.875,129 L104.875,129 L25.25,129 Z" id="Shape" fill="#E6E6E6" fill-rule="nonzero"></path>
+                    <polygon id="Shape" fill="#DA4836" fill-rule="nonzero" points="18 6 23 6 23 10 18 10"></polygon>
+                    <polygon id="Shape" fill="#F8CF26" fill-rule="nonzero" points="27 6 32 6 32 10 27 10"></polygon>
+                    <polygon id="Shape" fill="#3DBF50" fill-rule="nonzero" points="35 6 40 6 40 10 35 10"></polygon>
+                    <polygon id="Shape" fill="#29ABE2" fill-rule="nonzero" points="0 49 58 49 58 89 0 89"></polygon>
+                    <g id="Group" transform="translate(22.000000, 25.000000)" fill-rule="nonzero" fill="#999999">
+                        <polygon id="Shape" points="0 8.82758621 38.8984788 8.82758621 38.8984788 13.2413793 0 13.2413793"></polygon>
+                        <polygon id="Shape" points="8.18915344 0 38.8984788 0 38.8984788 4.4137931 8.18915344 4.4137931"></polygon>
+                        <polygon id="Shape" points="0 0 4.09457672 0 4.09457672 4.4137931 0 4.4137931"></polygon>
+                        <polygon id="Shape" points="51.182209 59.5862069 81.8915344 59.5862069 81.8915344 64 51.182209 64"></polygon>
+                        <polygon id="Shape" points="42.9930556 59.5862069 47.0876323 59.5862069 47.0876323 64 42.9930556 64"></polygon>
+                    </g>
+                    <g id="Group" transform="translate(10.000000, 57.000000)" fill-rule="nonzero" fill="#F2F2F2">
+                        <path d="M9.32858855,20.4837209 L1.08232243,13.7860465 C0.171367718,13.0462326 -0.0131424866,11.6469767 0.670009122,10.6604651 C0.787260719,10.4913488 0.926158764,10.3409302 1.08232243,10.2139535 L9.32858855,3.51627907 L11.8024684,7.08837209 L5.75589375,12 L11.8024684,16.9116279 L9.32858855,20.4837209 Z" id="Shape"></path>
+                        <path d="M28.2950006,20.4837209 L25.8211208,16.9116279 L31.8676954,12 L25.8211208,7.08837209 L28.2950006,3.51627907 L36.5412668,10.2139535 C37.4522215,10.9537674 37.6367317,12.3530233 36.9535801,13.3395349 C36.8363285,13.5086512 36.6974304,13.6590698 36.5412668,13.7860465 L28.2950006,20.4837209 Z" id="Shape"></path>
+                        <polygon id="Shape" points="12.7729508 22.3292093 21.0210208 0.00530232558 24.850896 1.66493023 16.6028261 23.9888372"></polygon>
+                    </g>
+                    <path d="M76.0013717,69 L76.0013717,62.1610536 C68.3499338,57.2542373 65.7283833,46.386665 70.1458758,37.8876804 C74.5633683,29.3886958 84.3471905,26.4767573 91.9986283,31.3835736 C99.6500662,36.2903899 102.271617,47.1579622 97.8541242,55.6569468 C96.450115,58.3581529 94.4307113,60.6012452 91.9986283,62.1610536 L91.9986283,69 L76.0013717,69 Z" id="Shape" fill="#FCBF29" fill-rule="nonzero"></path>
+                    <polygon id="Shape" fill="#0071BC" fill-rule="nonzero" points="76 69 92 69 92 78 76 78"></polygon>
+                    <path d="M79.1821025,57.0861896 C88.3377094,57.094375 95.7661563,49.2899091 95.7739339,39.654106 C95.7762672,36.6192481 95.0267597,33.6365037 93.5987806,31 C101.559738,35.7494174 104.355031,46.391474 99.8421707,54.7697333 C98.3835995,57.4774497 96.2628897,59.725149 93.7004087,61.2792756 L93.7004087,68 L77.1080588,68 L77.1080588,61.2792756 C74.5663182,59.7243304 72.459349,57.491092 71,54.8052032 C73.4924821,56.3012138 76.312663,57.087281 79.1821025,57.0861896 Z" id="Shape" fill="#F28D01" fill-rule="nonzero" opacity="0.5"></path>
+                    <g id="Group" transform="translate(79.000000, 46.000000)" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round">
+                        <path d="M6.41503268,22 L6.41503268,6.6" id="Shape"></path>
+                        <polyline id="Shape" points="12.8300654 0 6.41503268 6.6 0 0"></polyline>
+                    </g>
+                    <polygon id="Shape" fill="#8C6239" fill-rule="nonzero" points="69 67 98 67 98 71 69 71"></polygon>
+                    <polygon id="Shape" fill="#DA4836" fill-rule="nonzero" points="84.5102041 118 101 109 84.5102041 100 0 100 0 118"></polygon>
+                    <polygon id="Shape" fill="#F8CF26" fill-rule="nonzero" points="13 100 21 100 21 118 13 118"></polygon>
+                    <polygon id="Shape" fill="#FBB03B" fill-rule="nonzero" points="0 100 13 100 13 118 0 118"></polygon>
+                    <polygon id="Shape" fill="#8C6239" fill-rule="nonzero" points="84 100 100 109 84 118"></polygon>
+                    <polygon id="Shape" fill="#F7931E" fill-rule="nonzero" points="21 109 85 109 85 118 21 118"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="1107px" viewBox="0 0 1280 1107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>third copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="92.4854728%" y1="33.9163509%" x2="2.56701242%" y2="64.364504%" id="linearGradient-1">
+            <stop stop-color="#40009B" offset="0%"></stop>
+            <stop stop-color="#24B2EA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy" transform="translate(0.000000, -2922.000000)" fill="url(#linearGradient-1)">
+            <g id="third-copy" transform="translate(610.500000, 3922.000000) scale(-1, 1) rotate(-90.000000) translate(-610.500000, -3922.000000) translate(-633.500000, 2756.500000)">
+                <path d="M513.699598,417.496113 C638.208149,185.452097 1008.32263,332.320681 1210.70012,288.251308 C1393.06979,248.538806 1741.21461,378.219619 2255.13459,677.293749 C2208.3986,1015.66401 2082.75545,1295.96071 1878.20514,1518.18386 C1798.60296,1675.89073 1686.24939,2060.27693 1494.31419,1975.78003 C1467.26958,1961.91599 1359.21374,1982.59324 1214.01231,1883.98814 C1155.25961,1844.08966 978.958095,1754.32456 917.874742,1775.58073 C778.408251,1824.11314 764.268303,2065.28161 734.673373,2049.03777 C345.73277,1835.559 119.173278,1233.20647 291.076529,760.738992 C337.795682,632.333739 432.140075,569.496912 513.699598,417.496113 Z" id="Rectangle" transform="translate(1243.979438, 1165.544995) rotate(199.000000) translate(-1243.979438, -1165.544995) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
