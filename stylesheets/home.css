@@ -103,7 +103,7 @@ img {
 }
 
 .border_line_black {
-  border-bottom: 2px solid #26A69A;
+  border-bottom: 2px solid #2E81CD;
 }
 
 .box {
@@ -115,7 +115,7 @@ img {
   background-image: url(../images/first.svg);
   color: white;
   text-align: center;
-  height: 110vh;
+  height: 130vh;
   background-size: cover !important;
   display: flex;
   align-items: center;
@@ -389,7 +389,7 @@ textarea {
 }
 
 .text_green{
-  color: #26A69A;
+  color: #2E81CD;
 }
 
 .left-spacx {

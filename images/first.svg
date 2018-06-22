@@ -24,9 +24,9 @@
                 <g id="first" transform="translate(832.000000, 0.000000)">
                     <rect id="Rectangle-3" fill="#F5F5F5" x="0" y="114" width="1702" height="1165"></rect>
                     <path d="M318.11344,134.3585 C446.726452,8.72179828 929.829955,-28.8040983 1767.42395,21.7808103 C1884.89638,217.718659 1857.76976,399.563413 1686.04409,567.315073 C1619.21585,686.364727 1430.89983,888.815582 1128.05589,854.03992 C825.211956,819.264258 125.193921,322.813552 318.11344,134.3585 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
-                    <rect id="Rectangle-2" fill="#FFFFFF" x="474" y="519" width="89" height="13" rx="6.5"></rect>
-                    <rect id="Rectangle-2" fill="#FFFFFF" x="504" y="548" width="89" height="13" rx="6.5"></rect>
-                    <rect id="Rectangle-2" fill="#FFFFFF" x="530" y="577" width="89" height="13" rx="6.5"></rect>
+                    <rect id="Rectangle-2" fill="#F5F5F5" x="474" y="519" width="89" height="13" rx="6.5"></rect>
+                    <rect id="Rectangle-2" fill="#F5F5F5" x="504" y="548" width="89" height="13" rx="6.5"></rect>
+                    <rect id="Rectangle-2" fill="#F5F5F5" x="530" y="577" width="89" height="13" rx="6.5"></rect>
                 </g>
             </g>
         </g>
